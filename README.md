@@ -8,6 +8,7 @@ I am going to continue working on this program as I have already put a lot of ti
 2) Add a new class or method that allows the creation of characters higher than first level
 3) Move from console display to a UI
 4) Create a more user friendly system
+5) Add multi-class feature
 
 # Recommendations
 If you have any recommendations on how I could improve this please contact me at darianlhorn@gmail.com any and all suggestions, tips, bug report, and help will be greatly appreciated as I know that I still have room to improve my knowledge and skills in Java.
